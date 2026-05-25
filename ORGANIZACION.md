@@ -50,3 +50,4 @@ del conductor de turno:
          
 
 \#\# 3\. Evidencia del Trabajo Síncrono  
+<img width="543" height="324" alt="1" src="https://github.com/user-attachments/assets/185fb6ac-2cee-4d15-83a8-27647ba48b8f" />
